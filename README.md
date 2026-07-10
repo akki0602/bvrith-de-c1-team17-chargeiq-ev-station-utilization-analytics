@@ -7,7 +7,7 @@ ThreatPulse CyberSecurity Incident Analytics
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
 **Team:** 17  
-**Students:** A.Aswini, D.Srija, T.Akshaya
+**Students:** A.Ashwini, D.Srija, T.Akshaya
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
 ---
