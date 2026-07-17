@@ -1,7 +1,7 @@
 # Week 01 Log — [Sprint Name]
 
 **Week:** 1  
-**Date range:** 10-07-2026 t0 17-07-2026  
+**Date range:** 10-07-2026 to 17-07-2026  
 **Team:** 17  
 **Project:** Threatpulse Cyber security Incident analytics
 
@@ -15,14 +15,18 @@ Build and organize the project's GitHub repository by setting up the initial rep
 
 | Task | Owner | Status | Evidence |
 |---|---|---|---|
-| [Task] | [Student] | [Done / In progress] | [file / screenshot / notebook] |
+
+Created GitHub repository: 	Team	Done	GitHub repository
+Read and understood project brief: 	Team	Done	Project brief
+Prepared Problem Charter	Team:	Done	docs/problem_charter.md
+Planned project workflow	Team:	Done	README / Notes
 
 ---
 
 ## 3. Key Decisions
 
-- [Decision 1]
-- [Decision 2]
+Use Databricks for building the data pipeline.
+Use Power BI for dashboard visualization.
 
 ---
 
@@ -30,26 +34,29 @@ Build and organize the project's GitHub repository by setting up the initial rep
 
 | Blocker | Impact | Help Needed |
 |---|---|---|
-| [Blocker] | [Impact] | [Help needed] |
+
+New to Databricks:	May slow initial development:	Mentor guidance
+Understanding project workflow:	Delay in implementation:	Clarification from mentor
 
 ---
 
 ## 5. Evidence Added to GitHub
 
-- [File updated]
-- [Screenshot added]
-- [Notebook updated]
+Updated README.md
+Added docs/problem_charter.md
+Created project repository
 
 ---
 
 ## 6. AI Transparency Note
 
 | Question | Response |
-|---|---|
-| Where AI helped | [Explain] |
-| What we changed after AI suggestion | [Explain] |
-| What we verified manually | [Explain] |
-| What we can explain without AI | [Explain] |
+
+
+Where AI helped	Helped: understand the project.
+What we changed after AI suggestion:	Edited the content to fit our project.
+What we verified manually:	Project brief and requirements.
+What we can explain without AI:	Project workflow and pipeline.
 
 ---
 
