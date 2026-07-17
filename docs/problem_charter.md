@@ -1,14 +1,16 @@
 # Problem Charter
 
 **Week:** 1  
-**Owner(s):** [Student names]  
-**Project:** [Project title]
+**Owner(s):** A.ASHWINI, D.Srija, T.Akshaya
+**Project:** Threatpulse CyberSecurity Incident Analytics
 
 ---
 
 ## 1. Problem Context
 
 Explain the domain in simple language.
+Fully synthetic SOC analytics across alerts, assets, incidents, severity, and response time with a simulated live security
+event feed.
 
 Prompts:
 
@@ -21,7 +23,7 @@ Prompts:
 
 ## 2. Engineering Problem
 
-Write the data engineering problem clearly.
+Develop a Databricks data pipeline that converts raw cybersecurity data into Bronze, Silver, Gold, and dashboard-ready outputs with data quality checks and live streaming support.
 
 Example format:
 
@@ -36,20 +38,26 @@ Example format:
 | [Example: Operations Head] | [Example: View daily demand and service issues] |
 | [Example: Analyst] | [Example: Compare trends and investigate failures] |
 
+CISO:	View cyber risk and trends
+SOC: Manager	Monitor alerts and false positives
+Incident Response Lead:	Track response time and SLA
+SOC Analyst:	Monitor live security alerts
+
+
 ---
 
 ## 4. Scope Inclusions
 
 List what the team will build.
 
-- Raw source files
-- Bronze ingestion
-- Silver standardization
-- Data quality checks
-- Gold metrics
-- Power BI dashboard
-- Streaming simulation
-- GitHub evidence
+Synthetic data generation
+Bronze ingestion
+Silver transformation
+Data quality checks
+Gold metrics
+Power BI dashboard
+Streaming simulation
+GitHub documentation
 
 ---
 
@@ -59,11 +67,11 @@ List what the team will not build.
 
 Examples:
 
-- No production application
-- No real customer data
-- No payment gateway integration
-- No copied internet project submission
-- No fake screenshots or unexplained AI-generated work
+No real cybersecurity data
+No production deployment
+No hacking or penetration testing
+No copied projects
+No unexplained AI-generated work
 
 ---
 
