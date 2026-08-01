@@ -1,7 +1,7 @@
 # Week 03 Log — Databricks Setup & Data Exploration
 
 **Week:** 3  
-**Date range:** 23 July 2026 – 30 July 2026  
+**Date range:** 24 July 2026 – 30 July 2026  
 **Team:** Team 17  
 **Project:** P17 CHARGEIQ-EV STATION UTILIZATION ANALYTICS **
 
