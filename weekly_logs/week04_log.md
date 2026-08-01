@@ -17,10 +17,12 @@ We also ensured the data consistency after adding new columns and transformation
 ## 2. Work Completed
 
 | Task | Owner | Status | Evidence |
+|------|-------|--------|----------|
 | Read raw data into DataFrame | Team | Done | screenshots/week04_raw_data.png |
 | Checked schema using printSchema() | Team | Done | screenshots/week04_schema.png |
 | Added new columns to dataset | Team | Done | screenshots/week04_new_columns.png |
 | Validated data (row count & matching) | Team | Done | screenshots/week04_validation.png |
+| Completed Bronze Ingestion Notebook | Team | Done | notebooks/02_bronze_ingestion.ipynb |
 
 ---
 
@@ -36,6 +38,7 @@ We also ensured the data consistency after adding new columns and transformation
 ## 4. Blockers / Risks
 
 | Blocker | Impact | Help Needed |
+|------|-------|--------|----------|
 | Initial confusion in DataFrame creation | Medium | Resolved through practice |
 | Schema understanding | Low | Used printSchema() |
 
@@ -53,6 +56,7 @@ We also ensured the data consistency after adding new columns and transformation
 ## 6. AI Transparency Note
 
 | Question | Response |
+|------|-------|--------|----------|
 | Where AI helped | Helped in understanding Spark commands and structuring workflow |
 | What we changed after AI suggestion | Simplified steps and used proper validation methods |
 | What we verified manually | Schema correctness and row count matching |
