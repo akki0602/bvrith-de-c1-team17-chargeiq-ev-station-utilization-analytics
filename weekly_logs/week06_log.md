@@ -1,7 +1,7 @@
 # Week 06 Log — Data Quality Implementation
 
 **Week:** 6
-**Date range:** [Add actual Week 6 dates]
+**Date range:** [5/09/2026 -10/09/2026]
 **Team:** Team 17
 **Project:** P17 ChargeIQ
 
