@@ -73,6 +73,7 @@ The selected business totals were reconciled between Gold and the controlled exp
 ## 6. AI Transparency Note
 
 | Question            | Response                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------- |
 | AI helped with      | Power BI planning, debugging, validation guidance, and documentation                          |
 | What we changed     | Adapted AI suggestions to our actual project requirements and Gold tables                     |
 | What we verified    | Gold data, exports, KPI values, Power BI sources, and dashboard results were manually checked |
