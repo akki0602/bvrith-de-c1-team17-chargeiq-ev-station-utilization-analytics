@@ -9,7 +9,7 @@
 
 | Page | Purpose | Main Visuals |
 |---|---|---|
-| Page 1: Executive Overview | High-level summary of EV charging activity |  |Summary cards, daily trend chart, station-wise sessions, city-band sessions, activity-date slicer |
+| Page 1: Executive Overview | High-level summary of EV charging activity | Summary cards, daily trend chart, station-wise sessions, city-band sessions, activity-date slicer |
 
 
 ---
