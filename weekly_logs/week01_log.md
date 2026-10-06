@@ -1,4 +1,4 @@
-# Week 01 Log — [Sprint Name]
+# Week 01 Log — Project Framing
 
 **Week:** 1  
 **Date range:** 10-07-2026 to 17-07-2026  
@@ -62,5 +62,5 @@ Use Power BI for dashboard visualization.
 
 ## 7. Next Week Preparation
 
-- [Action]
-- [Action]
+- Review the next week’s tasks and requirements.
+- Prepare the required data and files for the next sprint.
