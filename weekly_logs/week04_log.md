@@ -1,4 +1,4 @@
-# Week 04 Log — [Sprint Name]
+# Week 04 Log — Batch Bronze
 
 **Week:** 4  
 **Date range:** 31-07-2026 to 06-08-2026  
