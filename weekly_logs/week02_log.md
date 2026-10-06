@@ -1,4 +1,4 @@
-# Week 02 Log — [Sprint Name]
+# Week 02 Log — Dataset Design
 
 **Week:** 2  
 **Date range:** 17/07/2026-24/07/2026
